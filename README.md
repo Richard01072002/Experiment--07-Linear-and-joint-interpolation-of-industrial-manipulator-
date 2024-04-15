@@ -1,4 +1,4 @@
-![image](https://github.com/Richard01072002/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/141472248/1e8d28b0-b2c3-4adc-ac40-02a48ade107b)# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator:
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
