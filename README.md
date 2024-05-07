@@ -1,5 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator:
-
+###  DATE: 15-04-2024
+###  NAME: RICHARDSON A
+###  ROLL NO : 212222233005
+###  DEPARTMENT: AI&DS
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
